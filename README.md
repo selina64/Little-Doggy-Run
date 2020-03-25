@@ -33,7 +33,7 @@ IMU：MPU6050
 
 #### 硬件连线
 
-![Image text](https://raw.githubusercontent.com/Piamen/Little-Doggy-Run/master/IMG/IMG3.jpg)
+![Image text](https://raw.githubusercontent.com/Piamen/Little-Doggy-Run/master/IMG/IMG3.png)
 
 ### 代码架构
 
