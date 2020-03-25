@@ -1,0 +1,11 @@
+little-doggy-run\start_manager.o: ..\MPL_core\mllite\start_manager.c
+little-doggy-run\start_manager.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+little-doggy-run\start_manager.o: ..\MPL_core\driver\include\log.h
+little-doggy-run\start_manager.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+little-doggy-run\start_manager.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+little-doggy-run\start_manager.o: ..\MPL_core\mllite\start_manager.h
+little-doggy-run\start_manager.o: ..\MPL_core\driver\include\mltypes.h
+little-doggy-run\start_manager.o: ..\MPL_core\driver\include\stdint_invensense.h
+little-doggy-run\start_manager.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+little-doggy-run\start_manager.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+little-doggy-run\start_manager.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h

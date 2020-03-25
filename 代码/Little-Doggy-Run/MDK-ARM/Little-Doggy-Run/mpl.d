@@ -1,0 +1,16 @@
+little-doggy-run\mpl.o: ..\MPL_core\mllite\mpl.c
+little-doggy-run\mpl.o: ..\MPL_core\mllite\storage_manager.h
+little-doggy-run\mpl.o: ..\MPL_core\driver\include\mltypes.h
+little-doggy-run\mpl.o: ..\MPL_core\driver\include\stdint_invensense.h
+little-doggy-run\mpl.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+little-doggy-run\mpl.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+little-doggy-run\mpl.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+little-doggy-run\mpl.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+little-doggy-run\mpl.o: ..\MPL_core\driver\include\log.h
+little-doggy-run\mpl.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+little-doggy-run\mpl.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+little-doggy-run\mpl.o: ..\MPL_core\mllite\mpl.h
+little-doggy-run\mpl.o: ..\MPL_core\mllite\start_manager.h
+little-doggy-run\mpl.o: ..\MPL_core\mllite\data_builder.h
+little-doggy-run\mpl.o: ..\MPL_core\mllite\results_holder.h
+little-doggy-run\mpl.o: ..\MPL_core\driver\include\mlinclude.h
